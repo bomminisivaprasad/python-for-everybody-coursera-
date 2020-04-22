@@ -41,3 +41,21 @@ for repeat in range(repeat):
 
 # Printing the list with the names
 print(name)
+
+
+
+
+Last-Modified:
+Sat, 13 May 2017 11:22:22 GMT
+
+ETag:
+1d3-54f6609240717
+
+Content-Length:
+467
+
+Cache-Control:
+max-age=0, no-cache, no-store, must-revalidate
+
+Content-Type:
+text/plain
